@@ -2,7 +2,7 @@
 
 ## 로그인 화면
 
-# activity_login.xml
+### activity_login.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -82,7 +82,7 @@
 
 </RelativeLayout>
 
-# LoginActivity.java
+### LoginActivity.java
 
 package com.example.finalexam_19173054;
 
@@ -145,7 +145,7 @@ public class LoginActivity extends AppCompatActivity {
 
 ## 메뉴 화면
 
-# activity_menu.xml
+### activity_menu.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -194,7 +194,7 @@ public class LoginActivity extends AppCompatActivity {
 
 </RelativeLayout>
 
-# MenuActivity.java
+### MenuActivity.java
 
 package com.example.finalexam_19173054;
 
@@ -264,7 +264,7 @@ public class MenuActivity extends AppCompatActivity {
 
 ## 일별 박스오피스 화면 01
 
-# activity_click.xml
+### activity_click.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -296,7 +296,7 @@ public class MenuActivity extends AppCompatActivity {
 
 ## 일별 박스오피스 화면 02
 
-# activity_movie.xml
+### activity_movie.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
