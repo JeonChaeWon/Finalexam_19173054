@@ -1,6 +1,6 @@
 # 19173054 전채원 캡스톤디자인 기말고사 과제 제출
 
-## 로그인 화면
+## 로그인 화면 (.xml)
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -80,7 +80,7 @@
 
 </RelativeLayout>
 
-## 메뉴 화면
+## 메뉴 화면 (.xml)
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -129,7 +129,7 @@
 
 </RelativeLayout>
 
-## 일별 박스오피스 화면 01
+## 일별 박스오피스 화면 01 (.xml)
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -159,7 +159,7 @@
 
 </LinearLayout>
 
-## 일별 박스오피스 화면 02
+## 일별 박스오피스 화면 02 (.xml)
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
